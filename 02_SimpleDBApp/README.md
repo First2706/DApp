@@ -60,9 +60,9 @@ cd 02_SimpleDBApp
 ```
 
 ### Step 2:
-ให้ค่าเริ่มต้นโปรเจ็คโดยใช้คำสั่ง
+ติดตั้งไลบรารี express และ mysqlเพิ่มเติม เพื่อให้สามารถใช้งาน express และรองรับการเชื่อมต่อเข้ากับ MySQL Server
 ```
-node init
+npm install express mysql
 ```
 
 ### Step 3:
